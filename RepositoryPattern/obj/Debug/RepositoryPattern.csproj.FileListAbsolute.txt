@@ -1,0 +1,10 @@
+C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\RepositoryPattern\RepositoryPattern\bin\Debug\RepositoryPattern.exe.config
+C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\RepositoryPattern\RepositoryPattern\obj\Debug\RepositoryPattern.csprojResolveAssemblyReference.cache
+C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\RepositoryPattern\RepositoryPattern\bin\Debug\RepositoryPattern.exe
+C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\RepositoryPattern\RepositoryPattern\bin\Debug\RepositoryPattern.pdb
+C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\RepositoryPattern\RepositoryPattern\bin\Debug\EntityFramework.dll
+C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\RepositoryPattern\RepositoryPattern\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\RepositoryPattern\RepositoryPattern\bin\Debug\EntityFramework.xml
+C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\RepositoryPattern\RepositoryPattern\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\RepositoryPattern\RepositoryPattern\obj\Debug\RepositoryPattern.exe
+C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\RepositoryPattern\RepositoryPattern\obj\Debug\RepositoryPattern.pdb
